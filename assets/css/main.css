@@ -934,6 +934,9 @@ textarea {
   position: relative;
   z-index: 1;
 }
+.breadcrumb__content{
+  margin-top: 80px;
+}
 @media (max-width: 991.98px) {
   .breadcrumb__bg {
     padding: 85px 0 90px;
